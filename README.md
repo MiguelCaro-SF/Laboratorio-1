@@ -80,6 +80,9 @@ luego tenemos que descargar la imagen de windows y de ubuntu y moverlas a la usb
 ![Imagen de WhatsApp 2025-08-28 a las 10 41 25_9e076646](https://github.com/user-attachments/assets/02b78802-b1fb-4762-9ff9-5daa664c5981)
 cuando entramos en la BIOS le damos a F8 para menu de booteo y nos aparece esto
 ![Imagen de WhatsApp 2025-08-28 a las 10 37 10_b543d180](https://github.com/user-attachments/assets/aa8e7c39-8bc9-43d5-9d7c-ecffaa5e7b74)
+este es el menu de ventoy donde podemos elegir que sistema operativo bootear
+![Imagen de WhatsApp 2025-08-28 a las 10 44 49_765a491b](https://github.com/user-attachments/assets/2204dd4b-9516-4f12-bce9-87320f356365)
+
 
 
 
