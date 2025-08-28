@@ -92,5 +92,6 @@ una vez estemos dentro de la BIOS tenemos que darle f8 para abrir el menu de boo
    ![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
    una vez este instalado, En este punto, es posible cambiar la prioridad de arranque para definir qué sistema operativo se iniciará primero, donde se puede establecer si el computador debe arrancar por defecto con Windows o con Ubuntu, dependiendo de las necesidades del usuario.
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 57_553b0471](https://github.com/user-attachments/assets/b29ed10f-f65b-40d2-8ec9-4453762e0633)
+Luego, reiniciamos el computador y, durante el encendido, presionamos la tecla F10 (en el caso de nuestro equipo ASUS Vivobook). Al hacerlo, se despliega una lista con las opciones disponibles para seleccionar qué sistema operativo iniciar. En caso de no presionar la tecla, el sistema se iniciará automáticamente con el que tenga configurado como primera prioridad en la BIOS.
 ![Imagen de WhatsApp 2025-08-27 a las 19 04 19_f7322321](https://github.com/user-attachments/assets/a1379b63-0b32-43bf-8e17-d34717a6e214)
 
