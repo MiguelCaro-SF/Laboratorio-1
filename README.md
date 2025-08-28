@@ -59,6 +59,13 @@ En GPT, por su diseño avanzado, no es necesario usar extendidas ni lógicas: to
    
 ## Segundo Punto: Descargar la imagen de Ubuntu y la imagen de Windows.
 1. Anexar la imagen de Ubuntu en la memoria con Rufus, describir en el readme el proceso.
-2. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
+   ![Imagen de WhatsApp 2025-08-27 a las 18 59 36_82e3179b](https://github.com/user-attachments/assets/292d19a7-2b3d-42b1-9012-65928dcfc9e6)
+![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
+![Imagen de WhatsApp 2025-08-27 a las 19 00 50_4e23d7f8](https://github.com/user-attachments/assets/fea2c478-1c4e-4657-92bf-fef1a8c479ce)
+
+
+
+
+3. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
 ## Tercer Punto: Usar la memoria booteable con Rufus o Ventoy y generar la partición en el pc para instalar Ubuntu.
 1. Describir y mostrar pantallazos de la instalación paso a paso de ubuntu con el proceso de participación del pc.
