@@ -61,11 +61,9 @@ En GPT, por su diseño avanzado, no es necesario usar extendidas ni lógicas: to
 1. Anexar la imagen de Ubuntu en la memoria con Rufus, describir en el readme el proceso.
    ![Imagen de WhatsApp 2025-08-27 a las 18 59 36_82e3179b](https://github.com/user-attachments/assets/292d19a7-2b3d-42b1-9012-65928dcfc9e6)
    Durante el proceso, iniciamos descargando la versión de Ubuntu desde la página oficial, correspondiente al sistema Windows. Posteriormente, buscamos en línea la aplicación Rufus, la descargamos e instalamos en el computador. Una vez insertada la memoria USB, procedimos a formatearla y, mediante Rufus, realizamos el proceso de booteo, con lo cual quedó lista la imagen de Ubuntu en la unidad extraíble.
+   Después, reiniciamos el equipo e ingresamos a la BIOS del sistema, donde configuramos el orden de arranque y establecimos la prioridad de inicio desde la memoria USB. Al reiniciar nuevamente, el computador inició desde la unidad booteada, lo que permitió dar inicio a la instalación de Ubuntu.
 
-
-
-
-
+Finalmente, avanzamos en el proceso de instalación hasta su finalización y, tras unos minutos de espera, se habilitó la opción para crear el usuario del nuevo sistema operativo, completando así la instalación.
 
 
 
