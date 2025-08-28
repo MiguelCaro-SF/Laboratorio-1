@@ -73,24 +73,24 @@ Este es el proceso solo para cargar la imagen de ubuntu en la usb.
 3. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
 ## Tercer Punto: Usar la memoria booteable con Rufus o Ventoy y generar la partición en el pc para instalar Ubuntu.
 Antes de reiniciar el dispositivo, fue necesario realizar la partición del disco. Para ello, en el escritorio dimos clic derecho y accedimos al administrador de discos
-![Imagen de WhatsApp 2025-08-27 a las 19 24 19_d3524091](https://github.com/user-attachments/assets/d07b0e44-f88a-4301-a806-c77f28a1ff85)
-donde seleccionamos el disco principal
+![Imagen de WhatsApp 2025-08-28 a las 10 21 50_c5026d9a](https://github.com/user-attachments/assets/5b4fdeff-c358-468a-988c-33fc5dad72df)
+
+
+En este menu es donde seleccionamos el disco principal
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 29_1c0921bb](https://github.com/user-attachments/assets/2845dd04-d4b8-4c32-93f0-b2c00268b94f)
- utilizamos la opción de reducir volumen.
+
+  luego le damos click derecho y utilizamos la opción de reducir volumen.
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 42_f0fc060c](https://github.com/user-attachments/assets/d961c0c7-4273-4bcb-afaa-516aed72b5cf)
 De acuerdo con las capacidades del computador, el grupo decidió asignar 40 GB para la instalación del nuevo sistema operativo
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 05_34e2208e](https://github.com/user-attachments/assets/fae59c24-910e-43a4-9c19-4615ea300aa4)
 Una vez realizado este procedimiento, se generó un espacio separado en el disco, el cual quedó disponible para la instalación de Ubuntu.
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 55_985198aa](https://github.com/user-attachments/assets/a9b12474-a1e3-41be-bcc2-2801de341977)
 
-
-
-
-
- Describir y mostrar pantallazos de la instalación paso a paso de ubuntu con el proceso de participación del pc.
-Reiniciamos el equipo e ingresamos a la BIOS del sistema con la usb insertada en el Pc.
-   ![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
+ Una vez este hecha la particion reiniciamos el equipo e ingresamos a la BIOS del sistema con la usb insertada en el Pc.
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 50_4e23d7f8](https://github.com/user-attachments/assets/fea2c478-1c4e-4657-92bf-fef1a8c479ce)
+una vez estemos dentro de la BIOS tenemos que darle f8 para abrir el menu de booteo y poder Bootear ubuntu para poder descargarlo.
+   ![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
+   una vez este instalado, En este punto, es posible cambiar la prioridad de arranque para definir qué sistema operativo se iniciará primero, donde se puede establecer si el computador debe arrancar por defecto con Windows o con Ubuntu, dependiendo de las necesidades del usuario.
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 57_553b0471](https://github.com/user-attachments/assets/b29ed10f-f65b-40d2-8ec9-4453762e0633)
 ![Imagen de WhatsApp 2025-08-27 a las 19 04 19_f7322321](https://github.com/user-attachments/assets/a1379b63-0b32-43bf-8e17-d34717a6e214)
 
