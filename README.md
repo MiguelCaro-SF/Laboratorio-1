@@ -102,7 +102,7 @@ En este menu es donde seleccionamos el disco principal
 
   luego le damos click derecho y utilizamos la opción de reducir volumen.
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 42_f0fc060c](https://github.com/user-attachments/assets/d961c0c7-4273-4bcb-afaa-516aed72b5cf)
-De acuerdo con las capacidades del computador, el grupo decidió asignar 40 GB para la instalación del nuevo sistema operativo
+De acuerdo con las capacidades del computador, decidimos asignar 40 GB para la instalación del nuevo sistema operativo
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 05_34e2208e](https://github.com/user-attachments/assets/fae59c24-910e-43a4-9c19-4615ea300aa4)
 Una vez realizado este procedimiento, se generó un espacio separado en el disco, el cual quedó disponible para la instalación de Ubuntu.
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 55_985198aa](https://github.com/user-attachments/assets/a9b12474-a1e3-41be-bcc2-2801de341977)
