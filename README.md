@@ -72,10 +72,15 @@ Este es el proceso solo para cargar la imagen de ubuntu en la usb.
 
 3. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
 ## Tercer Punto: Usar la memoria booteable con Rufus o Ventoy y generar la partición en el pc para instalar Ubuntu.
+Antes de reiniciar el dispositivo, fue necesario realizar la partición del disco. Para ello, en el escritorio dimos clic derecho y accedimos al administrador de discos
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 19_d3524091](https://github.com/user-attachments/assets/d07b0e44-f88a-4301-a806-c77f28a1ff85)
+donde seleccionamos el disco principal
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 29_1c0921bb](https://github.com/user-attachments/assets/2845dd04-d4b8-4c32-93f0-b2c00268b94f)
+ utilizamos la opción de reducir volumen.
 ![Imagen de WhatsApp 2025-08-27 a las 19 24 42_f0fc060c](https://github.com/user-attachments/assets/d961c0c7-4273-4bcb-afaa-516aed72b5cf)
+De acuerdo con las capacidades del computador, el grupo decidió asignar 40 GB para la instalación del nuevo sistema operativo
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 05_34e2208e](https://github.com/user-attachments/assets/fae59c24-910e-43a4-9c19-4615ea300aa4)
+Una vez realizado este procedimiento, se generó un espacio separado en el disco, el cual quedó disponible para la instalación de Ubuntu.
 ![Imagen de WhatsApp 2025-08-27 a las 19 26 55_985198aa](https://github.com/user-attachments/assets/a9b12474-a1e3-41be-bcc2-2801de341977)
 
 
