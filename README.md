@@ -62,6 +62,10 @@ En GPT, por su diseño avanzado, no es necesario usar extendidas ni lógicas: to
    ![Imagen de WhatsApp 2025-08-27 a las 18 59 36_82e3179b](https://github.com/user-attachments/assets/292d19a7-2b3d-42b1-9012-65928dcfc9e6)
 ![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 50_4e23d7f8](https://github.com/user-attachments/assets/fea2c478-1c4e-4657-92bf-fef1a8c479ce)
+![Imagen de WhatsApp 2025-08-27 a las 19 00 57_553b0471](https://github.com/user-attachments/assets/b29ed10f-f65b-40d2-8ec9-4453762e0633)
+![Imagen de WhatsApp 2025-08-27 a las 19 04 19_f7322321](https://github.com/user-attachments/assets/a1379b63-0b32-43bf-8e17-d34717a6e214)
+
+
 
 
 
