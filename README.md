@@ -63,16 +63,29 @@ En GPT, por su diseño avanzado, no es necesario usar extendidas ni lógicas: to
 
    ![Imagen de WhatsApp 2025-08-27 a las 18 59 36_82e3179b](https://github.com/user-attachments/assets/292d19a7-2b3d-42b1-9012-65928dcfc9e6)
    Durante el proceso, iniciamos descargando la versión de Ubuntu desde la página oficial, correspondiente al sistema Windows. Posteriormente, buscamos en línea la aplicación Rufus, la descargamos e instalamos en el computador. Una vez insertada la memoria USB, procedimos a formatearla y, mediante Rufus, realizamos el proceso de booteo, con lo cual quedó lista la imagen de Ubuntu en la unidad extraíble.
-   Después, reiniciamos el equipo e ingresamos a la BIOS del sistema, donde configuramos el orden de arranque y establecimos la prioridad de inicio desde la memoria USB. Al reiniciar nuevamente, el computador inició desde la unidad booteada, lo que permitió dar inicio a la instalación de Ubuntu.
+Este es el proceso solo para cargar la imagen de ubuntu en la usb.
+  
 
-Finalmente, avanzamos en el proceso de instalación hasta su finalización y, tras unos minutos de espera, se habilitó la opción para crear el usuario del nuevo sistema operativo, completando así la instalación.
+
 
 
 
 3. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
 ## Tercer Punto: Usar la memoria booteable con Rufus o Ventoy y generar la partición en el pc para instalar Ubuntu.
-1. Describir y mostrar pantallazos de la instalación paso a paso de ubuntu con el proceso de participación del pc.
+![Imagen de WhatsApp 2025-08-27 a las 19 24 19_d3524091](https://github.com/user-attachments/assets/d07b0e44-f88a-4301-a806-c77f28a1ff85)
+![Imagen de WhatsApp 2025-08-27 a las 19 24 29_1c0921bb](https://github.com/user-attachments/assets/2845dd04-d4b8-4c32-93f0-b2c00268b94f)
+![Imagen de WhatsApp 2025-08-27 a las 19 24 42_f0fc060c](https://github.com/user-attachments/assets/d961c0c7-4273-4bcb-afaa-516aed72b5cf)
+![Imagen de WhatsApp 2025-08-27 a las 19 26 05_34e2208e](https://github.com/user-attachments/assets/fae59c24-910e-43a4-9c19-4615ea300aa4)
+![Imagen de WhatsApp 2025-08-27 a las 19 26 55_985198aa](https://github.com/user-attachments/assets/a9b12474-a1e3-41be-bcc2-2801de341977)
+
+
+
+
+
+ Describir y mostrar pantallazos de la instalación paso a paso de ubuntu con el proceso de participación del pc.
+Reiniciamos el equipo e ingresamos a la BIOS del sistema con la usb insertada en el Pc.
    ![Imagen de WhatsApp 2025-08-27 a las 19 02 21_e9ac981d](https://github.com/user-attachments/assets/7439412b-05ee-4bb4-8c26-5d8770065e4e)
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 50_4e23d7f8](https://github.com/user-attachments/assets/fea2c478-1c4e-4657-92bf-fef1a8c479ce)
 ![Imagen de WhatsApp 2025-08-27 a las 19 00 57_553b0471](https://github.com/user-attachments/assets/b29ed10f-f65b-40d2-8ec9-4453762e0633)
 ![Imagen de WhatsApp 2025-08-27 a las 19 04 19_f7322321](https://github.com/user-attachments/assets/a1379b63-0b32-43bf-8e17-d34717a6e214)
+
