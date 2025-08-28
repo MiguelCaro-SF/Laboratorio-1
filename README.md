@@ -70,7 +70,25 @@ Este es el proceso solo para cargar la imagen de ubuntu en la usb.
 
 
 
-3. Anexar la imagen de Ubuntu y Windows en la memoria con Ventoy, describir en el readme el proceso.
+3. Primero descargamos ventoy desde la pagina web en google
+![Imagen de WhatsApp 2025-08-28 a las 10 37 10_088b8348](https://github.com/user-attachments/assets/5f2c7b29-78a3-45e3-bc3a-deb5aa4605dd)
+Luego, seleccionamos el dispositivo en el que vamos a intalar ventoy, es decir la usb, y le damos a instalar
+![Imagen de WhatsApp 2025-08-28 a las 09 38 42_3fe5a5f3](https://github.com/user-attachments/assets/47435c66-43ef-489a-976f-399f3ed1eb5c)
+una vez instalado, se ve algo asi:
+![Imagen de WhatsApp 2025-08-28 a las 09 38 43_617e7f03](https://github.com/user-attachments/assets/8fe34efc-986b-43f5-a672-095a50f09c10)
+luego tenemos que descargar la imagen de windows y de ubuntu y moverlas a la usb
+![Imagen de WhatsApp 2025-08-28 a las 10 41 25_9e076646](https://github.com/user-attachments/assets/02b78802-b1fb-4762-9ff9-5daa664c5981)
+cuando entramos en la BIOS le damos a F8 para menu de booteo y nos aparece esto
+![Imagen de WhatsApp 2025-08-28 a las 10 37 10_b543d180](https://github.com/user-attachments/assets/aa8e7c39-8bc9-43d5-9d7c-ecffaa5e7b74)
+
+
+
+
+
+
+
+
+
 ## Tercer Punto: Usar la memoria booteable con Rufus o Ventoy y generar la partición en el pc para instalar Ubuntu.
 Antes de reiniciar el dispositivo, fue necesario realizar la partición del disco. Para ello, en el escritorio dimos clic derecho y accedimos al administrador de discos
 ![Imagen de WhatsApp 2025-08-28 a las 10 21 50_c5026d9a](https://github.com/user-attachments/assets/5b4fdeff-c358-468a-988c-33fc5dad72df)
